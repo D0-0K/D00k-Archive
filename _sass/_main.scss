@@ -7,7 +7,9 @@
 }
 
 body {
-	font-family: system-ui, sans-serif;
+	  font-family: 'League Spartan Variable';
+         src: url('LeagueSpartanVariable.woff2') format('woff2-variations');
+         font-weight: 200 900;
 	-webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 	line-height:1.5;
