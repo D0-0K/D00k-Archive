@@ -9,19 +9,9 @@
 
 
 body 
-@font-face {
-
-  font-family: 'League Spartan Variable';
-
-  src: url('LeagueSpartanVariable.woff2') format('woff2-variations');
-
-  font-weight: 200 900;
-
-}
-
-
+        font-family: system-ui, sans-serif;
 	-webkit-font-smoothing: antialiased;
-    text-rendering: optimizeLegibility;
+        text-rendering: optimizeLegibility;
 	line-height:1.5;
 	font-size: 1rem;
 	color: rgb(22, 23, 26);
