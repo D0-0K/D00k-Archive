@@ -6,10 +6,13 @@
 	padding:0;
 }
 
-body {
-	  font-family: 'League Spartan Variable';
-         src: url('LeagueSpartanVariable.woff2') format('woff2-variations');
-         font-weight: 200 900;
+@font-face {
+  font-family: 'League Spartan Variable';
+  src: url('LeagueSpartanVariable.woff2') format('woff2-variations');
+  font-weight: 200 900;
+}
+
+body 
 	-webkit-font-smoothing: antialiased;
     text-rendering: optimizeLegibility;
 	line-height:1.5;
