@@ -4,9 +4,12 @@ layout: default
 
 <section class="post">
   <h2>{{ page.title }}</h2>
-  {{ content }}
-  <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time> &middot; {% for tag in page.tags %}
+  <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time> &verbar; {% for tag in page.tags %}
     <a href="/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</span>
+    <hr style="width:50%;text-align:left;margin-left:0;margin-bottom: 010px;margin-top: 5px;">
+    {{ content }}
 </section>
+
+
 
 
