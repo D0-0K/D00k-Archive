@@ -61,6 +61,14 @@ pre {
     margin: 0;
 }
 
+.line{
+    width:75%;
+    text-align:left;
+    margin-left:0;
+    margin-bottom: 010px;
+    margin-top: 5px;
+}
+
 code,pre {
     background: rgb(236, 237, 238);
 }
@@ -163,7 +171,6 @@ strong, b {
     text-overflow:ellipsis;
     text-decoration: none;
     color: #323232;
-
 }
 
 .posts li time, .projects li time {
