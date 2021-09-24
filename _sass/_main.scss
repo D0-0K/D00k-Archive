@@ -173,11 +173,13 @@ strong, b {
     color: #323232;
 }
 
-.posts li time, .projects li time {
+.posts time, .projects time {
     padding-left: 1rem;
     white-space: nowrap;
     font-variant-numeric: tabular-nums;
     color: #a0a0a0;
+    margin-bottom: .5rem;
+    display: block;
 }
 
 .post ul, .project ul, .post ol  {
