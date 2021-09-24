@@ -10,7 +10,7 @@
     font-family: 'League Spartan Variable';
     src: local(League Spartan Variable), url(https://D0-0k.github.io/fonts/LeagueSpartan-VF.woff2) format('woff2-variations');
     font-weight: 200 900;
-    font-display: optional;
+    font-display: fallback;
   }
 
 body {
@@ -92,7 +92,7 @@ img {
 
 hr {
     background: #edf2f7;
-    height: .5px;
+    height: .5.5rem;
     border: 0;
 }
 
@@ -177,7 +177,8 @@ strong, b {
     white-space: nowrap;
     font-variant-numeric: tabular-nums;
     color: #a0a0a0;
-    margin-bottom: .5rem;
+    margin-top: -1.5rem;
+    margin-bottom: .4rem;
     display: block;
     font-weight: 400;
     font-size: .9rem;
