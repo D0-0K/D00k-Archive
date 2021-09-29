@@ -8,7 +8,7 @@ layout: default
 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }} &verbar; {{ post.read }} min read</time>
 <span class="subtext">{{ post.summary }}</span>
-<hr style="margin-bottom:.5rem;">
+<hr style="margin-bottom:1rem;">
 {% endfor %}
 </ul>
 </section>
