@@ -195,16 +195,18 @@ strong, b {
     //list-style-position: inside;
 }
 
+#parent { white-space: nowrap;}
+
 .pagination {
- 
+ display: inline-block;
 }
 
 .next{
-
+ color:inherit;
 }
 
 .prev {
-
+ color:inherit;
 }
 
 main {
