@@ -1,11 +1,14 @@
 {% if paginator.previous_page%}
+<span class="page-prev">
 <a class="pagination" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">
-    <div class="child">Previous</div>
-</a>
+    <span class="prev">‹ Previous</span> 
+ </a>
 {% endif %} 
-
+&verbar;
 {% if paginator.next_page%}
+<span class="page-next">
 <a class="pagination" href="{{ paginator.next_page_path | prepend: site.baseurl }}">
-    <div class="child">Next</div>
+    <span class="next">Next ›</span>
 </a>
+</span>
 {% endif %}
