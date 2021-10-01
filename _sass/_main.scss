@@ -195,18 +195,20 @@ strong, b {
     //list-style-position: inside;
 }
 
-#parent { white-space: nowrap;}
+#parent { 
+    white-space: nowrap;
+    width:100%;
+    heigh:10px;
+}
 
 .pagination {
- display: inline-block;
+   
 }
 
-.next{
- color:inherit;
-}
-
-.prev {
- color:inherit;
+.child{
+    display:inline-block;
+    width:50%;
+    height:100%;
 }
 
 main {
