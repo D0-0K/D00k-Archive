@@ -4,7 +4,7 @@ layout: default
 
 <section class="posts">
 <ul>
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }} &verbar; {{ post.read }} min read</time>
 <span class="subtext">{{ post.summary }}</span>
