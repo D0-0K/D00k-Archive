@@ -4,14 +4,14 @@ links:
   svg: <img src="https://D0-0k.github.io/media/site/home.svg" alt="blog" height="50">
 - title: Writing
   url: /
-  svg: <img src="../media/site/blog.svg" alt="blog" height="55">
+  svg: <img src="https://D0-0k.github.io/media/site/blog.svg" alt="blog" height="55">
 - title: About
   url: /about
-  svg: <img alt="blog" src="../media/site/about.svg" height="55">
+  svg: <img alt="blog" src="https://D0-0k.github.io/media/site/about.svg" height="55">
 - title: Archive
   url: /archive
-  svg: <img src="../media/site/archive.svg" alt="blog" height="40">
+  svg: <img src="https://D0-0k.github.io/media/site/archive.svg" alt="blog" height="40">
 - title: Rss
   url: /atom.xml
-  svg: <img src="../media/site/rss.svg" alt="blog" height="40">
+  svg: <img src="https://D0-0k.github.io/media/site/rss.svg" alt="blog" height="40">
   
