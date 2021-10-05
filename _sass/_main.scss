@@ -23,7 +23,7 @@ body {
 }
 
 nav ul {
-    border-right: 1px solid #edf2f7;
+    border-right: 0px;
 }
 
 time {
@@ -97,7 +97,6 @@ hr {
 }
 
 header {
-    flex-basis:10rem;
     flex-grow:1;
     position:relative;
 }
@@ -108,9 +107,13 @@ header a {
 
 }
 
+header ul {
+    border-bottom: 1px solid #edf2f7;
+    padding-bottom: 2rem;   
+}
+
 header li {
-    margin-bottom: .2rem;
-    text-align: right;
+    display: inline;
     margin-right: 2rem;
 }
 
@@ -230,7 +233,7 @@ strong, b {
 main {
     display:flex;
     flex-wrap:wrap;
-    max-width:60rem;
+    max-width:40rem;
     margin:2rem auto;
     padding:1rem;
 }
