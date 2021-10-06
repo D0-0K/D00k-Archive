@@ -1,17 +1,17 @@
 links:
 - title: Search
   url: /search
-  svg: <img src="https://D0-0k.github.io/media/site/home.svg" alt="blog" height="50">
-- title: Writing
+  svg: <img src="https://D0-0k.github.io/media/site/home.svg" alt="Home" height="50">
+- title: Blog
   url: /
-  svg: <img src="https://D0-0k.github.io/media/site/blog.svg" alt="blog" height="55">
+  svg: <img src="https://D0-0k.github.io/media/site/blog.svg" alt="Blog" height="55">
 - title: About
   url: /about
-  svg: <img alt="blog" src="https://D0-0k.github.io/media/site/about.svg" height="55">
+  svg: <img src="https://D0-0k.github.io/media/site/about.svg" alt="About" height="55">
 - title: Archive
   url: /archive
-  svg: <img src="https://D0-0k.github.io/media/site/archive.svg" alt="blog" height="40">
+  svg: <img src="https://D0-0k.github.io/media/site/archive.svg" alt="Archive" height="40">
 - title: Rss
   url: /atom.xml
-  svg: <img src="https://D0-0k.github.io/media/site/rss.svg" alt="blog" margin="0" height="40">
+  svg: <img src="https://D0-0k.github.io/media/site/rss.svg" alt="Rss" height="40">
   
