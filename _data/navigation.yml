@@ -9,7 +9,7 @@ links:
   url: /about
   svg: <img src="https://D0-0k.github.io/media/site/about.svg" alt="About" height="55">
 - title: Archive
-  url: /archive
+  url: /archive/
   svg: <img src="https://D0-0k.github.io/media/site/archive.svg" alt="Archive" height="40">
 - title: Rss
   url: /atom.xml
