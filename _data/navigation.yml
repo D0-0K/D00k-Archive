@@ -1,6 +1,6 @@
 links:
-- title: Search
-  url: /search
+- title: Home
+  url: /
   svg: <img src="https://D0-0k.github.io/media/site/home.svg" alt="Home" height="50">
 - title: Blog
   url: /
