@@ -13,5 +13,5 @@ links:
   svg: <img src="https://D0-0k.github.io/media/site/archive.svg" alt="blog" height="40">
 - title: Rss
   url: /atom.xml
-  svg: <img src="https://D0-0k.github.io/media/site/rss.svg" alt="blog" height="40">
+  svg: <img src="https://D0-0k.github.io/media/site/rss.svg" alt="blog" margin="0" height="40">
   
