@@ -250,12 +250,16 @@ main {
 .background {
     background-image: url(../media/site/Home_Background.jpg);
     background-repeat: no-repeat;   
-    background-size: 100% calc(100% + 5%);   
+    background-size: 100% 100%;   
     background-attachment: fixed;
     image-rendering: pixelated;  
 }
 
 @media screen and (max-width: 45rem ) {
+.background {
+    background-size: 100% calc(100% + 5%);   
+}
+    
 header li {
     display: inline;
     margin-right: calc((100% - 222.84px) / 4);
