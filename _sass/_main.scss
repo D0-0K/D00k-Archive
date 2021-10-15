@@ -26,10 +26,28 @@ body {
     margin: 0; 
 }
 
-.home li a {
-   margin: 0;
-   font-weight: 800;
+.home div {
+  margin-top: 1rem;
+}
+.home li::first-letter {
+    font-weight: 650;
+    font-size: 3.2rem;
+}
+  
+.home li {
+    list-style: none;
+}
 
+.home li a {
+   margin:0;
+   font-weight:700;
+   text-underline-position: under;
+   text-decoration-thickness: 10px;
+   font-size: 2.3rem;
+   color: #565656;
+   filter: opacity(70%);
+   line-height: 2;
+   text-decoration-line: underline;
 }
 
 nav ul {
