@@ -1,0 +1,19 @@
+---
+title: Projects
+permalink: /projects/
+layout: default
+---
+
+<section class="posts">
+<ul>
+{% for post in site.projects %}
+{{ project.embed }}
+<h1>{{ project.title }}</h1>
+<time datetime="{{ project.date | date_to_xmlschema }}">{{ project.time }} &verbar; {{tag}} </time>
+<span class="subtext">{{ project.summary }}</span>
+<hr style="margin-bottom:1rem;">
+{% endfor %}
+</ul>
+
+  
+</section>
