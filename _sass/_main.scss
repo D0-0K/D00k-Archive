@@ -95,6 +95,14 @@ pre {
     font-variant-caps: all-petite-caps;
 }
 
+.post h1:first-child {
+    margin-top: .5rem;
+    font-weight: 700;
+    font-size: 2rem;
+    margin-bottom: 0;
+    font-variant-caps: all-petite-caps;
+}
+
 .meta {
     margin: 0;
 }
@@ -230,8 +238,9 @@ strong, b {
 .subtext {
     font-weight: 450;
     color: #6d6d6d; 
-    margin-top: -.2rem; 
+    margin-top: -.1rem; 
     display: block;
+    margin-bottom: 2.5rem;
 }
 .post ul, .project ul, .post ol  {
     //list-style-position: inside;
