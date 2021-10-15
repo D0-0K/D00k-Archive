@@ -50,6 +50,16 @@ body {
    text-decoration-line: underline;
 }
 
+.home footer {
+    position: fixed;
+    text-align: center;
+    height: 1.5rem;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    filter: invert(100%); 
+}
+
 nav ul {
     border-right: 0px;
 }
