@@ -9,7 +9,7 @@ layout: default
 {% for project in site.projects %}
 {{ project.embed }}
 <h1>{{ project.title }}</h1>
-<time datetime="{{ project.date | date_to_xmlschema }}">{{ project.time }} &verbar; {{project.tags}}</time>
+<time datetime="{{ project.date | date_to_xmlschema }}">{{ project.time }} &verbar; {{ project.tags }}</time>
 <span class="subtext">{{ project.summary }}</span>
 <hr style="margin-bottom:1rem;">
 {% endfor %}
