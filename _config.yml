@@ -47,7 +47,7 @@ collections:
     permalink: /:year/:month/:day/:slug
   photos:
     output: true
-    permalink: /:name
+    permalink: /:collection/:name
     
 defaults:
   -
