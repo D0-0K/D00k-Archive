@@ -45,7 +45,7 @@ collections:
   projects:
     output: true
     permalink: /:year/:month/:day/:slug
-  gallery:
+  photos:
     output: true
     permalink: /:name
     
