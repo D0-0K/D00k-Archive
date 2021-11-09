@@ -7,8 +7,8 @@ layout: default
 <section class="posts">
 <ul>
 {% for gallery in site.gallery%}
-<a href="{{ site.baseurl }}{{ gallery.url }}"><img src="{{ post.img }}"></a>
-<li><a href="{{ site.baseurl }}{{ gallery.url }}">{{ post.title }}</a></li>
+<a href="{{ site.baseurl }}{{ gallery.url }}"><img src="{{ gallery.img }}"></a>
+<li><a href="{{ site.baseurl }}{{ gallery.url }}">{{ gallery.title }}</a></li>
 <hr style="margin-bottom:1rem;">
   
 {% endfor %}
