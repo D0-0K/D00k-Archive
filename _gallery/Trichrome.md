@@ -1,4 +1,5 @@
 ---
+layout: posts
 Title: Tric-chrome Photography
 Img: https://raw.githubusercontent.com/D0-0K/D0-0K.github.io/main/about.gif
 ---
