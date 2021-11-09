@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Tric-chrome Photography
+Name: Tric-chrome Photography
 img: https://raw.githubusercontent.com/D0-0K/D0-0K.github.io/main/about.gif
 ---
 ![Picture](https://raw.githubusercontent.com/D0-0K/D0-0K.github.io/main/about.gif)
