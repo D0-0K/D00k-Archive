@@ -1,6 +1,6 @@
 ---
 title: Gallery
-permalink: /photos
+permalink: /gallery
 layout: default
 ---
 
@@ -8,7 +8,7 @@ layout: default
 <ul>
 {% for photo in site.photos%}
 <a href="{{ site.baseurl }}{{ photo.url }}"><img src="{{ photo.img }}"></a>
-<h1><a href="{{ site.baseurl }}{{ photo.url }}">{{ photo.title }}</a></h1>
+<li><a href="{{ site.baseurl }}{{ photo.url }}">{{ photo.title }}</a></li>
 <hr style="margin-bottom:1rem;">
 {% endfor %}
 </ul>
