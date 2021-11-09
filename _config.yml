@@ -45,7 +45,10 @@ collections:
   projects:
     output: true
     permalink: /:year/:month/:day/:slug
- 
+  gallery:
+    output: true
+    permalink: /:name
+    
 defaults:
   -
     scope:
