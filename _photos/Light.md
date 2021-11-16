@@ -23,7 +23,7 @@ img: media/photos/Light/LI01.jpg
 
 ---
 
-![Picture](media/photos/Light/LI04.jpg)
+![Picture](/media/photos/Light/LI04.jpg)
  Light Painting 01
 
 ---
