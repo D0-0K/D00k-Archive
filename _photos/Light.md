@@ -8,17 +8,17 @@ img: media/photos/Light/LI01.jpg
 
 ---
 
-![Picture](media/photos/Light/LI01.jpg)
+![Picture](/media/photos/Light/LI01.jpg)
  Light Portrait 01
 
 ---
 
-![Picture](media/photos/Light/LI02.jpg)
+![Picture](/media/photos/Light/LI02.jpg)
  Light Portrait 02
 
 ---
 
-![Picture](media/photos/Light/LI03.jpg)
+![Picture](/media/photos/Light/LI03.jpg)
  Fake Reflections
 
 ---
@@ -28,7 +28,7 @@ img: media/photos/Light/LI01.jpg
 
 ---
 
-![Picture](media/photos/Light/LI05.jpg)
+![Picture](/media/photos/Light/LI05.jpg)
  Light Painting 02
 
 ---
