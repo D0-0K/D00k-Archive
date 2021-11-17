@@ -1,0 +1,20 @@
+---
+title: Gallery
+permalink: /photos
+layout: default
+---
+
+<section class="posts">
+ <h1> Gallery </h1>
+<ul>
+{% for photo in site.photos%}
+<a href="{{ site.baseurl }}{{ photo.url }}"><img src="{{ photo.img }}"></a>
+<li><a href="{{ site.baseurl }}{{ photo.url }}">{{ photo.title }}</a></li>
+<hr style="margin-bottom:1rem;">
+{% endfor %}
+</ul>
+ 
+  
+</section>
+
+
