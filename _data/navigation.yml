@@ -11,6 +11,6 @@ links:
 - title: Photos
   url: /photos
   svg: <img src="/assets/site/photos.svg" alt="Photos" height="40">
-  - title: Projects
+- title: Projects
   url: /projects/
   svg: <img src="/assets/site/archive.svg" alt="Projects" height="40">
