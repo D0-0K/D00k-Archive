@@ -10,7 +10,7 @@ links:
   svg: <img src="/assets/site/about.svg" alt="About" height="55">
 - title: Photos
   url: /photos
-  svg: <img src="/assets/site/photos.svg" alt="Photos" height="40">
+  svg: <img src="/assets/site/photos.svg" alt="Photos" height="55">
 - title: Projects
   url: /projects/
   svg: <img src="/assets/site/archive.svg" alt="Projects" height="40">
