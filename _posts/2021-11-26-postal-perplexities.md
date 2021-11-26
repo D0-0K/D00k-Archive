@@ -21,7 +21,7 @@ tags: [general]
  So I eventually managed to actually get a Pebble Time Round in my hands (Or I guess wrist?) This time comming from the United States again, New Jersey to be exact. The Seller was a lovely guy, gave a huge discount and threw in a steel band too. The watch itself spent a pretty ridiculous transit, 90% of the time in the States bouncing between New Jersey, New York and Philadelphia. It's journey looked a little like this: Plainfield NJ -> Queens NY -> Bellmawr NJ -> Philadelphia PA -> Philadelphia PA -> Folcroft PA -> Kingston Place NY -> Newark NJ -> Dublin Ireland. All in all, that was a whopping 504km long journey ping pong-ing across the States before it even crossed the Atlantic, that's without adding on an extra 110km to get to my house. All of that to end up just 30km from where it began.
 
 ![Picture](/assets/posts/post.png)
-**-The distance from Plainfield NJ, to Newark Airport.**
+   **-The distance from Plainfield NJ, to Newark Airport.**
 
 ---
 
