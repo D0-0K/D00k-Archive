@@ -9,26 +9,27 @@ img: assets/photos/Light/LI01.jpg
 ---
 
 ![Picture](/assets/photos/Light/LI01.jpg)
- Light Portrait 01
+ **Light Portrait 01**
 
 ---
 
 ![Picture](/assets/photos/Light/LI02.jpg)
- Light Portrait 02
+
+ **Light Portrait 02**
 
 ---
 
 ![Picture](/assets/photos/Light/LI03.jpg)
- Fake Reflections
+ **Fake Reflections**
 
 ---
 
 ![Picture](/assets/photos/Light/LI04.jpg)
- Light Painting 01
+ **Light Painting 01**
 
 ---
 
 ![Picture](/assets/photos/Light/LI05.jpg)
- Light Painting 02
+ **Light Painting 02**
 
 ---
