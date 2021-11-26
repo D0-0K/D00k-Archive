@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: photo
 Title: Tri-chrome Photography
 img: assets/photos/TriChrome/TC06.jpg
 ---
