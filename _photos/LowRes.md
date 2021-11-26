@@ -4,7 +4,7 @@ Title: Low Resolution Experiments
 img: assets/photos/LowRes/LR01.jpg
 ---
 
- # Low Resolution Experiments
+# Low Resolution Experiments
  
 ---
 
