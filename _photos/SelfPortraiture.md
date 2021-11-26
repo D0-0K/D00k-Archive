@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: photo
 Title: Self Portraiture
 img: assets/photos/SelfPortraiture/SP02.jpg
 ---
