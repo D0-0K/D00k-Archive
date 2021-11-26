@@ -19,7 +19,7 @@ img: assets/photos/SelfPortraiture/SP02.jpg
 ---
 
 ![Picture](/assets/photos/SelfPortraiture/SP03.jpg)
- Monents of Change 02
+ Moments of Change 02
 
 ---
 
