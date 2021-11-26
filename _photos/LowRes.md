@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: photo
 Title: Low Resolution Experiments
 img: assets/photos/LowRes/LR01.jpg
 ---
