@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Postal Perplexities
-read: 3
+read: 6
 description: Seriously what the heck is going on with the global postal system?
 summary: Seriously what the heck is going on with the global postal system?
 tags: [general]
