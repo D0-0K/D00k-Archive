@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: photo
 Title: Light Experiments
 img: assets/photos/Light/LI01.jpg
 ---
