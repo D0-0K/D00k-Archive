@@ -67,3 +67,9 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+    -
+    scope:
+      path: ""
+      type: "photos"
+    values:
+      layout: "photo"
