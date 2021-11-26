@@ -9,7 +9,7 @@ tags: [general]
 
  I've gotten into a few new hobbies this year, as such I've been buying a bunch of things online. And with thanks to the utter shambles that is the global postal service, I've gotten incredibly intimate with customs, an post and the USPS. Oh boy has it been a mess.
 
- ## Ireland's Customs Fail
+## Ireland's Customs Fail
  At the end of July, the EU brought in a slew of new laws and arrangements with customs thanks to Brexit. The additions that are important to our story are the removal of the import fee exemptions for items under 26 euro and the introduction of a new "Low Value Consignments" form for items under 150 euro. Seems simple enough, from what I can tell countries were given 6 months to prepare. And yet An Post (the Irish national post service) fell to it's knees for almost three months after these changes.
   My first attempt at importing a Pebble Time Round happened in September. The parcel had only been 5 days in transit when it reached Ireland, then it dissapeared for a week. The next update informed me that my parcel was now in London Heathrow, on it's way back to the States. Wait, what?
  It took several weeks of communication with An Post, Customs and the seller to work out what happened and why. The seller swore they did nothing different, and left nothing out. When they got the parcel back, there was a sticker on it saying it was refused by customs, the reason why was blank. An Post couldn't keep their stories straight, on my first call they quickly shifted the blame to Customs saying they were "incredibly nitpicky" sending items back "if they didn't like the look of them" and it wasn't their fault. On the second call they adamantly pressed that it was the sellers fault who "got the Taric Code wrong" (This ended up being complete bs, the watch that eventually _did_ get through had a Taric code for a goddamn table and still somehow got through no problem). My call with Customs on the other hand was _very_ interesting. They informed me that An Post in fact handled all the customs processing and that they were having problems, big problems.
@@ -21,7 +21,7 @@ tags: [general]
  So I eventually managed to actually get a Pebble Time Round in my hands (Or I guess wrist?) This time comming from the United States again, New Jersey to be exact. The Seller was a lovely guy, gave a huge discount and threw in a steel band too. The watch itself spent a pretty ridiculous transit, 90% of the time in the States bouncing between New Jersey, New York and Philadelphia. It's journey looked a little like this: Plainfield NJ -> Queens NY -> Bellmawr NJ -> Philadelphia PA -> Philadelphia PA -> Folcroft PA -> Kingston Place NY -> Newark NJ -> Dublin Ireland. All in all, that was a whopping 504km long journey ping pong-ing across the States before it even crossed the Atlantic, that's without adding on an extra 110km to get to my house. All of that to end up just 30km from where it began.
 
 ![Picture](/assets/posts/post.png)
-## The distance from Plainfield NJ, to Newark Airport.
+**-The distance from Plainfield NJ, to Newark Airport.**
 
 ---
 
