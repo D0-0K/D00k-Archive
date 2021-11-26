@@ -6,8 +6,6 @@ img: assets/photos/Light/LI01.jpg
 
 # Light Experiments
 
----
-
 ![Picture](/assets/photos/Light/LI01.jpg)
  **Light Portrait 01**
 

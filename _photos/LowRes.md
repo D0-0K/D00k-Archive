@@ -4,10 +4,7 @@ Title: Low Resolution Experiments
 img: assets/photos/LowRes/LR01.jpg
 ---
 
- # Low Resolution Experiments
- 
-
----
+   # Low Resolution Experiments
 
 ![Picture](/assets/photos/LowRes/LR01.jpg)
  **Cherry Blossoms 01**

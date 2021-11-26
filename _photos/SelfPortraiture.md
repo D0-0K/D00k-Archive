@@ -6,9 +6,6 @@ img: assets/photos/SelfPortraiture/SP02.jpg
 
 # Self Portraiture
  
-
----
-
 ![Picture](/assets/photos/SelfPortraiture/SP01.jpg) 
  **Overlay with Flowers**
 
