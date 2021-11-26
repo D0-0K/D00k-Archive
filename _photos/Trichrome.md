@@ -60,12 +60,12 @@ img: assets/photos/TriChrome/TC06.jpg
 ---
 
 ![Picture](/assets/photos/TriChrome/TC11.jpg)
-
  **Pale Flowers 01 - RGB TriChrome**
 
 ---
 
 ![Picture](/assets/photos/TriChrome/TC12.jpg)
+
  **Pale Flowers 02 - RGB TriChrome**
 
 ---
