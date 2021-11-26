@@ -4,7 +4,7 @@ Title: Self Portraiture
 img: assets/photos/SelfPortraiture/SP02.jpg
 ---
 
- # Self Portraiture
+# Self Portraiture
  
 ---
 
